@@ -1,0 +1,3 @@
+[submodule "BlockchainPRJ/blockchainprj"]
+	path = BlockchainPRJ/blockchainprj
+	url = https://github.com/SabinaEnache/blockchainprj.git
